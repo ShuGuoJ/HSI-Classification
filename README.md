@@ -7,7 +7,7 @@ The source codes of models which we use is shown below.
 * [SAE_LR](https://github.com/ShuGuoJ/SAE-LR.git)
 * [S-DMM](https://github.com/ShuGuoJ/S-DMM.git)
 * [SSDL](https://github.com/ShuGuoJ/SSDL.git)
-* [3DCAE](https://github.com/ShuGuoJ/S-DMM.git)
+* [3DCAE](https://github.com/ShuGuoJ/3DCAE-hyperspectral-classification.git)
 * [TwoCNN](https://github.com/ShuGuoJ/TwoCnn.git)
 * [3DVSCNN](https://github.com/ShuGuoJ/3DVSCNN.git)
 * [SSLstm](https://github.com/ShuGuoJ/SSLstm.git)
