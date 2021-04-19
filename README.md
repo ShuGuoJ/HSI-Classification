@@ -14,7 +14,7 @@ The source codes of models which we use is shown below.
 * [CNN_HSI](https://github.com/ShuGuoJ/CNN-HSI.git)
 
 ## Citation
-`@article{JIA2021179,
+@article{JIA2021179,
 title = {A survey: Deep learning for hyperspectral image classification with few labeled samples},
 
 journal = {Neurocomputing},
@@ -35,4 +35,4 @@ author = {S. Jia and S. Jiang and Z. Lin and N. Li and M. Xu and S. Yu},
 
 keywords = {Hyperspectral image classification, Deep learning, Transfer learning, Few-shot learning},
 
-}`
+}
