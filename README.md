@@ -12,3 +12,17 @@ The source codes of models which we use is shown below.
 * [3DVSCNN](https://github.com/ShuGuoJ/3DVSCNN.git)
 * [SSLstm](https://github.com/ShuGuoJ/SSLstm.git)
 * [CNN_HSI](https://github.com/ShuGuoJ/CNN-HSI.git)
+
+## Citation
+`@article{JIA2021179,
+title = {A survey: Deep learning for hyperspectral image classification with few labeled samples},
+journal = {Neurocomputing},
+volume = {448},
+pages = {179-204},
+year = {2021},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2021.03.035},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231221004033},
+author = {S. Jia and S. Jiang and Z. Lin and N. Li and M. Xu and S. Yu},
+keywords = {Hyperspectral image classification, Deep learning, Transfer learning, Few-shot learning},
+}`
